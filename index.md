@@ -8,7 +8,7 @@ country: "us"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "Feb 22-23, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "Fri 12-8pm Sat 8am-5pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "Friday 2-22 12-8pm, Saturday 2-23 8am-5pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-02-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-02-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Jacob Fosso Tande","Timothy Warren"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -605,7 +605,7 @@ and our administrator may contact you if we need any extra information.</h4>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
-<div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
+<!-- <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
 
   <p>
@@ -655,8 +655,8 @@ and our administrator may contact you if we need any extra information.</h4>
     </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
-
-<div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
+ -->
+<!-- <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
   <h3>SQLite</h3>
 
   <p>
@@ -700,17 +700,17 @@ and our administrator may contact you if we need any extra information.</h4>
   <p><strong>If you installed Anaconda, it also has a copy of SQLite
     <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
     Instructors will provide a workaround for it if needed.</strong></p>
-</div> {% comment %} End of 'SQLite' section. {% endcomment %}
+</div> {% comment %} End of 'SQLite' section. {% endcomment %} -->
 
-<div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
+<!-- <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
     For this lesson you will need <em>OpenRefine</em> and a
     web browser. <em>Note:</em> this is a Java program that runs on your machine (not in the cloud).
     It runs inside a web browser, but no web connection is needed.
-  </p>
+  </p> -->
 
-  <div class="row">
+ <!--  <div class="row">
     <div class="col-md-4">
       <h4 id="openrefine-windows">Windows</h4>
       <p>
@@ -746,8 +746,8 @@ and our administrator may contact you if we need any extra information.</h4>
       <p>Launch OpenRefine by entering <code>./refine</code> into the terminal within the OpenRefine directory.</p>
       <p>If you are using a different browser, or if OpenRefine does not automatically open for you, point your browser at <a href="http://127.0.0.1:3333/">http://127.0.0.1:3333/</a> or <a href="http://localhost:3333">http://localhost:3333</a> to use the program.</p>
     </div>
-  </div>
-</div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
+  </div> -->
+<!-- </div> {% comment %} End of 'OpenRefine' section. {% endcomment %} -->
 
 {% comment %}
 <div id="vm">
