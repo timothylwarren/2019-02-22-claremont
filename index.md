@@ -605,10 +605,10 @@ and our administrator may contact you if we need any extra information.</h4>
   
   
   <p><strong>
-  Finally, please download the following data files and unzip them as folders on your Desktop
+   <li>Download <a href="./data/data-shell.zip">data-shell.zip</a> and move the file to your Desktop.</li>
+  <li>Unzip/extract the file (ask your instructor if you need help with this step). You should end up with a new folder called <strong>data-shell</strong> on your Desktop.</li>
   
-  <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip">Unix Data</a>
-  <a href="http://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip">Python Data</a>
+  
   
   </strong></p>
   
