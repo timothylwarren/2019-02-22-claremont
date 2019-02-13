@@ -596,13 +596,13 @@ and our administrator may contact you if we need any extra information.</h4>
       </ol>
     </div>
   </div>
-{% comment %}
+
   <p>
   Once you are done installing the software listed above,
   please go to <a href="setup/index.html">this page</a>,
   which has instructions on how to test that everything was installed correctly.
   </p>
-{% endcomment %}
+
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 {% comment %}
 <!-- <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
