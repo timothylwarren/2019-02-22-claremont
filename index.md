@@ -602,6 +602,16 @@ and our administrator may contact you if we need any extra information.</h4>
   please go to <a href="setup/index.html">this page</a>,
   which has instructions on how to test that everything was installed correctly.
   </p>
+  
+  
+  <p>
+  Finally, please download the following data files and unzip them as folders on your Desktop
+  
+  <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip>Unix Data</a>
+  <a href="http://swcarpentry.github.io/python-novice-inflammation/data/python-novice-inflammation-data.zip">Python Data</a>
+  
+  
+  
 
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 {% comment %}
