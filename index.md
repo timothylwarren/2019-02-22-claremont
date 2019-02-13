@@ -605,8 +605,11 @@ and our administrator may contact you if we need any extra information.</h4>
   
   
   <p><strong>
+  Finally, please download the following software
    <li>Download <a href="./data/data-shell.zip">data-shell.zip</a> and move the file to your Desktop.</li>
   <li>Unzip/extract the file (ask your instructor if you need help with this step). You should end up with a new folder called <strong>data-shell</strong> on your Desktop.</li>
+  
+  <li>Download <a href="./data/data-shell.zip">data-shell.zip</a> and move the file to your Desktop.</li>
   
   
   
